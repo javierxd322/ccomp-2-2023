@@ -1,2 +1,3 @@
-# ccomp-2-2023
-# CARLOS-UCSP
+# CCOMP2.2023
+# Carlos - UCSP
+# Ciencia de la Computacion I 
